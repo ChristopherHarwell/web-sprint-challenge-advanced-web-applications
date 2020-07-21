@@ -103,4 +103,5 @@ const ColorList = ({ colors, updateColors, bubbleFormation, setBubbleFormation }
   );
 };
 
+
 export default ColorList;
